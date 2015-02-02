@@ -12,7 +12,7 @@ https://github.com/grz/wxpay_scanpay_java_demo_proj
 对于商用产品的开发,请注意以下:
 
 1. 本SDK是微信支付接口的使用示例
-2. 
+ 
 2. Native支付一和Native支付二没有包括JSP的服务器
-3. 
+
 3. SDK没有数据库,开发者应该考虑保存有用的用户信息
